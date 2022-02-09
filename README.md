@@ -36,6 +36,7 @@ Languages, tools and frameworks that I like to work with:
   - [redis](https://redis.io/)
   - [PostgreSQL](https://www.postgresql.org/)
 - Tools
+  - [pnpm](https://pnpm.io/)
   - [Makefile](https://www.gnu.org/software/make/manual/make.html)
   - [GDB](https://www.sourceware.org/gdb/)
   - [Virtualbox](https://www.virtualbox.org/)
@@ -46,9 +47,9 @@ Languages, tools and frameworks that I like to work with:
 Things I would like to work with:
 
 - Languages
-  - Python
-  - Rust
-  - C++
-  - Assembly
+  - [Python](https://www.python.org/)
+  - [Rust](https://www.rust-lang.org/)
+  - [C++](https://www.cplusplus.com/)
+  - [Assembly](https://en.wikipedia.org/wiki/X86_assembly_language)
 - Tools
   - [Grafana](https://grafana.com/)
