@@ -1,16 +1,54 @@
-### Hi there 👋
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats" alt="kibotrel's GitHub stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=kibotrel&count_private=true&show_icons=true&hide=prs,issues&theme=gotham&include_all_commits=true&custom_title=General%20stats" />
+  </a>
+  <br>
+  <br>
+  <a href="https://github.com/JaeSeoKim/badge42" alt="kibotrel 42 profile">
+    <img src="https://badge42.herokuapp.com/api/stats/kibotrel?privacyEmail=true&privacyName=true" />
+  </a>
+  <br>
+  <br>
+    <a href="https://github.com/anuraghazra/github-readme-stats" alt="kibotrel's top languages">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kibotrel&layout=compact&langs_count=5&hide=c%2B%2B,Makefile&theme=gotham&card_width=445" />
+  </a>
+</div>
 
-<!--
-**kibotrel/kibotrel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there! :wave:
 
-Here are some ideas to get you started:
+I am Kilian, also known as DemonWaves on the web. I'm a French CS student at [Ecole 42](https://github.com/42Paris).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## :computer: Experience and interests
+
+Currently doing an apprenticeship at [ITŌ](https://ito.am/), working on their main product called [LN Markets](https://lnmarkets.com/), to improve my skills as a Fullstack developer.
+
+Languages, tools and frameworks that I like to work with:
+
+- Languages
+  - [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) and [nodeJS](https://nodejs.org/en/)
+  - [C](https://www.programiz.com/c-programming)
+  - [Shellscript](https://www.shellscript.sh/)
+- Front-end
+  - [VueJS](https://vuejs.org/), [vuex](https://vuex.vuejs.org/) and [vue-router](https://router.vuejs.org/)
+  - [TailwindCSS](https://tailwindcss.com/)
+- Back-end
+  - [express](https://expressjs.com/)
+  - [redis](https://redis.io/)
+  - [PostgreSQL](https://www.postgresql.org/)
+- Tools
+  - [Makefile](https://www.gnu.org/software/make/manual/make.html)
+  - [GDB](https://www.sourceware.org/gdb/)
+  - [Virtualbox](https://www.virtualbox.org/)
+  - [Simplenote](https://simplenote.com/)
+  - [Markdown](https://www.markdownguide.org/getting-started/), [JSON](https://www.json.org/json-en.html) and [YAML](https://docs.ansible.com/ansible/latest/reference_appendices/YAMLSyntax.html)
+  - [VS Code](https://code.visualstudio.com/)
+
+Things I would like to work with:
+
+- Languages
+  - Python
+  - Rust
+  - C++
+  - Assembly
+- Tools
+  - [Grafana](https://grafana.com/)
