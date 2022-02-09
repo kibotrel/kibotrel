@@ -44,7 +44,7 @@ Languages, tools and frameworks that I like to work with:
   - [Markdown](https://www.markdownguide.org/getting-started/), [JSON](https://www.json.org/json-en.html) and [YAML](https://docs.ansible.com/ansible/latest/reference_appendices/YAMLSyntax.html)
   - [VS Code](https://code.visualstudio.com/)
 
-Things I would like to work with:
+Things I would like to learn and build with:
 
 - Languages
   - [Python](https://www.python.org/)
