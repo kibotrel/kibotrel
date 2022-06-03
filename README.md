@@ -5,12 +5,12 @@
   <br>
   <br>
   <a href="https://github.com/JaeSeoKim/badge42" alt="kibotrel 42 profile">
-    <img src="https://badge42.herokuapp.com/api/stats/kibotrel?privacyEmail=true&privacyName=true" />
+    <img src="https://badge42.vercel.app/api/v2/cl16eeo7s001109mj06ekb8jp/stats?cursusId=21&coalitionId=2" />
   </a>
   <br>
   <br>
     <a href="https://github.com/anuraghazra/github-readme-stats" alt="kibotrel's top languages">
-    <img src="https://badge42.vercel.app/api/v2/cl16eeo7s001109mj06ekb8jp/stats?cursusId=21&coalitionId=2" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kibotrel&layout=compact&langs_count=5&hide=c%2B%2B,Makefile&theme=gotham&card_width=445" />
   </a>
 </div>
 
