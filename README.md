@@ -5,7 +5,7 @@
   <br>
   <br>
   <a href="https://github.com/JaeSeoKim/badge42" alt="kibotrel 42 profile">
-    <img src="https://badge42.vercel.app/api/v2/cl16eeo7s001109mj06ekb8jp/stats?cursusId=21&coalitionId=2" />
+    <img src="" />
   </a>
   <br>
   <br>
