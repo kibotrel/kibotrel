@@ -30,26 +30,18 @@ Languages, tools and frameworks that I like to work with:
   - [Shellscript](https://www.shellscript.sh/)
 - Front-end
   - [VueJS](https://vuejs.org/), [vuex](https://vuex.vuejs.org/) and [vue-router](https://router.vuejs.org/)
-  - [TailwindCSS](https://tailwindcss.com/)
+  - [TailwindCSS](https://tailwindcss.com/) and [TailwindUI](https://tailwindui.com/)
 - Back-end
   - [express](https://expressjs.com/)
   - [redis](https://redis.io/)
   - [PostgreSQL](https://www.postgresql.org/)
 - Tools
   - [pnpm](https://pnpm.io/)
-  - [Makefile](https://www.gnu.org/software/make/manual/make.html)
-  - [GDB](https://www.sourceware.org/gdb/)
-  - [Virtualbox](https://www.virtualbox.org/)
   - [Simplenote](https://simplenote.com/)
   - [Markdown](https://www.markdownguide.org/getting-started/), [JSON](https://www.json.org/json-en.html) and [YAML](https://docs.ansible.com/ansible/latest/reference_appendices/YAMLSyntax.html)
   - [VS Code](https://code.visualstudio.com/)
 
 Things I would like to learn and build with:
 
-- Languages
-  - [Python](https://www.python.org/)
   - [Rust](https://www.rust-lang.org/)
-  - [C++](https://www.cplusplus.com/)
-  - [Assembly](https://en.wikipedia.org/wiki/X86_assembly_language)
-- Tools
-  - [Grafana](https://grafana.com/)
+  - [Three.js](https://threejs.org/)
