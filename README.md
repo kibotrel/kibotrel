@@ -29,7 +29,7 @@ Languages, tools and frameworks that I like to work with:
   - [C](https://www.programiz.com/c-programming)
   - [Shellscript](https://www.shellscript.sh/)
 - Front-end
-  - [VueJS](https://vuejs.org/), [vuex](https://vuex.vuejs.org/) and [vue-router](https://router.vuejs.org/)
+  - [VueJS](https://vuejs.org/), [pinia](https://pinia.vuejs.org/), [i18next](https://www.i18next.com) and [vue-router](https://router.vuejs.org/)
   - [TailwindCSS](https://tailwindcss.com/) and [TailwindUI](https://tailwindui.com/)
 - Back-end
   - [express](https://expressjs.com/)
