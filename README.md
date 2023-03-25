@@ -16,16 +16,17 @@
 
 ## Hi there! :wave:
 
-I am Kilian, also known as DemonWaves on the web. I'm a French CS student at [Ecole 42](https://github.com/42Paris).
+I am Kilian, also known as DemonWaves on the web. I'm a former CS student at [Ecole 42](https://github.com/42Paris).
 
 ## :computer: Experience and interests
 
-Currently doing an apprenticeship at [ITŌ](https://ito.am/), working on their main product called [LN Markets](https://lnmarkets.com/), to improve my skills as a Fullstack developer.
+I'm mostly Fullstack developer but enjoy building various things using a broad variety of technologies.
 
 Languages, tools and frameworks that I like to work with:
 
 - Languages
   - [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) and [nodeJS](https://nodejs.org/en/)
+  - [Typescript](https://www.typescriptlang.org/)
   - [C](https://www.programiz.com/c-programming)
   - [Shellscript](https://www.shellscript.sh/)
 - Front-end
@@ -33,15 +34,11 @@ Languages, tools and frameworks that I like to work with:
   - [TailwindCSS](https://tailwindcss.com/) and [TailwindUI](https://tailwindui.com/)
 - Back-end
   - [express](https://expressjs.com/)
-  - [redis](https://redis.io/)
-  - [PostgreSQL](https://www.postgresql.org/)
+  - [redis](https://redis.io/), [PostgreSQL](https://www.postgresql.org/), [TimescaleDB](https://docs.timescale.com/) and [Quick.db](https://www.npmjs.com/package/quick.db)
 - Tools
   - [pnpm](https://pnpm.io/)
-  - [Simplenote](https://simplenote.com/)
+  - [vite](https://vitejs.dev/) and [vitest](https://vitest.dev/)
+  - [Puppeteer](https://github.com/puppeteer/puppeteer)
   - [Markdown](https://www.markdownguide.org/getting-started/), [JSON](https://www.json.org/json-en.html) and [YAML](https://docs.ansible.com/ansible/latest/reference_appendices/YAMLSyntax.html)
   - [VS Code](https://code.visualstudio.com/)
-
-Things I would like to learn and build with:
-
-  - [Rust](https://www.rust-lang.org/)
-  - [Three.js](https://threejs.org/)
+  - [Eslint](https://eslint.org/) and [prettier](https://prettier.io/)
