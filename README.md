@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats" alt="kibotrel's GitHub stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=kibotrel&count_private=true&show_icons=true&hide=prs,issues&theme=gotham&include_all_commits=true&custom_title=General%20stats" />
+    <img src="https://github-readme-stats-kibotrel.vercel.app/api?username=kibotrel&count_private=true&show_icons=true&theme=gotham&custom_title=General%20stats" />
   </a>
   <br>
   <br>
