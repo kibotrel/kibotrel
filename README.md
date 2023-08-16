@@ -10,7 +10,7 @@
   <br>
   <br>
     <a href="https://github.com/anuraghazra/github-readme-stats" alt="kibotrel's top languages">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kibotrel&layout=compact&langs_count=5&hide=c%2B%2B,Makefile&theme=gotham&card_width=445" />
+      <img src="https://github-readme-stats-kibotrel.vercel.app/api/top-langs/?username=kibotrel&layout=compact&langs_count=5&hide=c%2B%2B,Makefile&theme=gotham&card_width=445)" />
   </a>
 </div>
 
