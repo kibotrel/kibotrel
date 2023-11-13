@@ -65,5 +65,5 @@
     <img width="6" />
     <br>
     <br>
-    <p>I'm mostly Fullstack developer but enjoy building various things using a broad variety of technologies. Currently working on a Discord.js based framework and osu! to ease up Discord bot creation <a href="https://github.com/kibotrel/DiscordBox" target="_blank">DiscordBox</a></p>.
+    <p>I'm mostly Fullstack developer but enjoy building various things using a broad variety of technologies. Currently working on a Discord.js based framework and osu! to ease up Discord bot creation <a href="https://github.com/kibotrel/DiscordBox" target="_blank">DiscordBox</a>.</p>
 </div>
