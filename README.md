@@ -37,6 +37,8 @@
     <img width="6" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" height="40" alt="sequelize logo"  />
     <img width="6" />
+    <img src="https://images.opencollective.com/drizzle-orm/9405e48/logo/256.png?height=256" height="40" alt="drizzle logo" />
+    <img width="6" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" height="40" alt="discordjs logo"  />
   </div>
   <div>
