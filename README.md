@@ -59,13 +59,11 @@
     <img width="6" />
     <img src="https://github.com/kibotrel/kibotrel/assets/45034541/35dc9106-f040-4951-8503-13ab7ba17043" height="40" alt="prettier logo"  />
     <img width="6" />
-    <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="40" alt="vscode logo"  />
-    <img width="6" />
     <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
     <img width="6" />
     <img src="https://skillicons.dev/icons?i=md" height="40" alt="markdown logo"  />
     <img width="6" />
     <br>
-    <br>
-    <p>I'm mostly Fullstack developer but enjoy building various things using a broad variety of technologies. Currently working on a Discord.js based framework to ease up Discord bot creation named <a href="https://github.com/kibotrel/DiscordBox" target="_blank">DiscordBox</a>.</p>
+    <br> 
+    <p>I'm mostly Fullstack developer but enjoy building various things using a broad variety of technologies. Currently working on a Web-App that allows you to manage osu! tournaments.</p>
 </div>
