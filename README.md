@@ -9,6 +9,7 @@
   </a>
   <h1>Hi there!👋</h1>
   <p>I am Kilian, also known as DemonWaves on the web. I'm a former CS student at Ecole 42.</p>
+  <p>I'm mostly Fullstack developer but enjoy building various things using a broad variety of technologies. Currently working on a Web-App that allows you to manage osu! tournaments.</p>
   <h2>💻 Experience and interests</h2>
 
   <div>
@@ -62,8 +63,5 @@
     <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
     <img width="6" />
     <img src="https://skillicons.dev/icons?i=md" height="40" alt="markdown logo"  />
-    <img width="6" />
-    <br>
-    <br> 
-    <p>I'm mostly Fullstack developer but enjoy building various things using a broad variety of technologies. Currently working on a Web-App that allows you to manage osu! tournaments.</p>
+  </div>
 </div>
